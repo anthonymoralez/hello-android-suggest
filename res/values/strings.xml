@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suggest</string>
+    <string name="original_hint">Enter partial text</string>
+    <string name="original_label">Original text</string>
+    <string name="result_label">Suggestions:</string>
+    <string name="working">Working...</string>
+    <string name="error">(Web service error)</string>
+    <string name="interrupted">(Web service interrupted)</string>
+    <string name="no_results">(No suggestions)</string>
+</resources>
